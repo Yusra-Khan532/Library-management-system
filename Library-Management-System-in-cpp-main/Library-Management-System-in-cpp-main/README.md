@@ -1,6 +1,6 @@
 # Library-Management-System-in-cpp
 
-## This repository is for the implementation of Libarary Management System in C++ done under Course - CS253
+## This repository is for the implementation of Libarary Management System in C++ 
 
 
 ### 1. About the code
