@@ -1332,7 +1332,7 @@ MainMenu:
 
 exit:
     cout << "---------------------------------------------------" << endl;
-    cout << "CREATED AND CODED BY:  Mohd Umam" << endl;
+    cout << "CREATED AND CODED BY:  Mohd Umam and Yusra Khan" << endl;
     cout << "Library Management system" << endl;
     cout << "Thanks for visiting us !!" << endl;
     cout << "---------------------------------------------------" << endl;
